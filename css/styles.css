@@ -31,7 +31,6 @@
   width: 100%;
   object-fit: cover;
   transition: transform var(--animation-duration) var(--timing-function);
-  outline: 2px solid red;
 }
 
 .gallery__link {
